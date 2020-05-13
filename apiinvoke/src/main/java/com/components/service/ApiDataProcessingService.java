@@ -4,8 +4,8 @@ import java.util.Map;
 
 /**
  * 数据处理接口
- * @author jianhui.Yang
- * @version $Id: ApiDataProcessingService.java, v 0.1 2017/7/11 9:53 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiDataProcessingService.java, v 0.1 2017/7/11 9:53 JHui.Yang Exp $
  */
 public interface ApiDataProcessingService {
 

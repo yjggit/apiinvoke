@@ -4,8 +4,8 @@ import java.util.Map;
 
 /**
  * 请求数据接口
- * @author jianhui.Yang
- * @version $Id: ApiInvokingService.java, v 0.1 2017/7/10 11:46 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiInvokingService.java, v 0.1 2017/7/10 11:46 JHui.Yang Exp $
  */
 public interface ApiInvokingService {
 

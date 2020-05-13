@@ -11,8 +11,8 @@ import java.util.Date;
  *
  * 缓存接口
  *
- * @author jianhui.Yang
- * @version $Id: ApiCacheService.java, v 0.1 2017/7/11 11:20 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiCacheService.java, v 0.1 2017/7/11 11:20 JHui.Yang Exp $
  */
 public interface ApiCacheService {
 

@@ -6,8 +6,8 @@ import java.util.Map;
 
 /**
  * 参数检查接口
- * @author jianhui.Yang
- * @version $Id: ApiCheckParamService.java, v 0.1 2017/7/10 11:20 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiCheckParamService.java, v 0.1 2017/7/10 11:20 JHui.Yang Exp $
  */
 public interface ApiCheckParamService {
 

@@ -8,8 +8,8 @@ import java.util.List;
  *
  * comp_api相关数据查询
  *
- * @author jianhui.Yang
- * @version $Id: ApiCompService.java, v 0.1 2017/7/14 16:46 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiCompService.java, v 0.1 2017/7/14 16:46 JHui.Yang Exp $
  */
 public interface ApiCompService {
 

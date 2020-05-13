@@ -23,8 +23,8 @@ import java.util.concurrent.Executors;
 
 /**
  * 本接口返回的数据优先取缓存中的,当缓存存在数据则直接返回.
- * @author jianhui.Yang
- * @version $Id: ApiExecuteEngineServiceImpl.java, v 0.1 2017/7/6 16:59 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiExecuteEngineServiceImpl.java, v 0.1 2017/7/6 16:59 JHui.Yang Exp $
  */
 @SuppressWarnings("ALL")
 @Service("defaultApiExecEngine")

@@ -6,8 +6,8 @@ import java.util.Map;
  *
  * API调用执行引擎
  *
- * @author  jianhui.Yang
- * @version $Id: ApiExecuteEngine.java, v 0.1 2017/7/6 16:33 Ian.Su Exp $
+ * @author  JHui.Yang
+ * @version $Id: ApiExecuteEngine.java, v 0.1 2017/7/6 16:33 JHui.Yang Exp $
  */
 public interface ApiExecuteEngineService {
 

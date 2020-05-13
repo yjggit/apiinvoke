@@ -13,8 +13,8 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @author jianhui.Yang
- * @version $Id: SwaggerConfig.java, v 0.1 2017/7/19 8:44 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: SwaggerConfig.java, v 0.1 2017/7/19 8:44 JHui.Yang Exp $
  */
 @Configuration
 @EnableSwagger2
@@ -37,7 +37,7 @@ public class SwaggerConfig {
                 .title("公共第三方接口调用项目")
                 .description("集成hibernate、错误日志入库、日志查询、提醒、自检等功能")
                 .termsOfServiceUrl("")
-                .contact("jianhui.Yang")
+                .contact("JHui.Yang")
                 .version("1.0")
                 .build();
     }

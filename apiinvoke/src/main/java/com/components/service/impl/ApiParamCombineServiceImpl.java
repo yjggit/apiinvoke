@@ -12,8 +12,8 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ParamCombineServiceImpl.java, v 0.1 2017/7/6 15:06 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ParamCombineServiceImpl.java, v 0.1 2017/7/6 15:06 JHui.Yang Exp $
  */
 @Service("defaultApiParamCombineService")
 public class ApiParamCombineServiceImpl implements ApiParamCombineService {

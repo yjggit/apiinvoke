@@ -9,8 +9,8 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiCompServiceImpl.java, v 0.1 2017/7/14 16:47 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiCompServiceImpl.java, v 0.1 2017/7/14 16:47 JHui.Yang Exp $
  */
 @SuppressWarnings("ALL")
 @Service

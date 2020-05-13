@@ -4,8 +4,8 @@ import java.util.Map;
 
 /**
  * 参数组合接口
- * @author jianhui.Yang
- * @version $Id: ParamCombineService.java, v 0.1 2017/7/6 14:21 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ParamCombineService.java, v 0.1 2017/7/6 14:21 JHui.Yang Exp $
  */
 public interface ApiParamCombineService {
 

@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiDataProcessingServiceImpl.java, v 0.1 2017/7/17 10:36 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiDataProcessingServiceImpl.java, v 0.1 2017/7/17 10:36 JHui.Yang Exp $
  */
 @Service("defaultApiDataProcessingService")
 public class ApiDataProcessingServiceImpl implements ApiDataProcessingService {

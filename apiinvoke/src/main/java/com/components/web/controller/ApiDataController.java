@@ -18,8 +18,8 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiDataController.java, v 0.1 2017/7/6 17:38 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiDataController.java, v 0.1 2017/7/6 17:38 JHui.Yang Exp $
  */
 @SuppressWarnings("ALL")
 @Api(value = "/api", tags = "获取第三方API接口数据")

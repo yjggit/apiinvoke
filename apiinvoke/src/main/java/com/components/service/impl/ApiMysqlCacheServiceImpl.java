@@ -14,8 +14,8 @@ import java.util.Optional;
 
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiMysqlCacheServiceImpl.java, v 0.1 2017/7/11 11:22 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiMysqlCacheServiceImpl.java, v 0.1 2017/7/11 11:22 JHui.Yang Exp $
  */
 @SuppressWarnings("ALL")
 @Service("mysqlCacheService")

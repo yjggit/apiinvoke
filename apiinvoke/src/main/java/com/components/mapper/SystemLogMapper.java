@@ -10,8 +10,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: SystemLogMapper.java, v 0.1 2017/7/14 10:51 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: SystemLogMapper.java, v 0.1 2017/7/14 10:51 JHui.Yang Exp $
  */
 @Mapper
 public interface SystemLogMapper {

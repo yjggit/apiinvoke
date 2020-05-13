@@ -9,8 +9,8 @@ import org.springframework.stereotype.Service;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id ApiCrmDataCheckServiceImpl.java, v 0.1 2018-11-13 17:13 jianhui.Yang Exp $$
+ * @author JHui.Yang
+ * @version $Id ApiCrmDataCheckServiceImpl.java, v 0.1 2018-11-13 17:13 JHui.Yang Exp $$
  */
 @Service("apiCrmDataCodeCheckService")
 public class ApiCrmDataCheckServiceImpl implements ApiDataCheckService, ApiAddressParamAssemblyInterface {

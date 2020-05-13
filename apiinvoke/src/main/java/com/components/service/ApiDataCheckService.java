@@ -3,8 +3,8 @@ package com.components.service;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiDataapiDataCheckService.java, v 0.1 2017/7/10 15:53 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiDataapiDataCheckService.java, v 0.1 2017/7/10 15:53 JHui.Yang Exp $
  */
 public interface ApiDataCheckService {
 

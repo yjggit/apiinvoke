@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Map;
 
 /**错误日志查询接口
- * @author jianhui.Yang
- * @version $Id SystemLogService.java, v 0.1 2018-11-13 10:40 jianhui.Yang Exp $$
+ * @author JHui.Yang
+ * @version $Id SystemLogService.java, v 0.1 2018-11-13 10:40 JHui.Yang Exp $$
  */
 public interface SystemLogService {
 

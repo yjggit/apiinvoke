@@ -10,8 +10,8 @@ import java.util.Iterator;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiDataapiDataCheckServiceImpl.java, v 0.1 2017/7/10 15:58 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiDataapiDataCheckServiceImpl.java, v 0.1 2017/7/10 15:58 JHui.Yang Exp $
  */
 @Service("responseBeanDataCheckService")
 public class ApiResponseBeanDataCheckServiceImpl implements ApiDataCheckService , ApiAddressParamAssemblyInterface {

@@ -1,8 +1,8 @@
 package com.components.util;
 
 /**
- * @author jianhui.Yang
- * @version $ Id ErrorMsg.java, v 0.1 2018/8/8 11:24 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $ Id ErrorMsg.java, v 0.1 2018/8/8 11:24 JHui.Yang Exp $
  **/
 public class ErrorMsg {
 

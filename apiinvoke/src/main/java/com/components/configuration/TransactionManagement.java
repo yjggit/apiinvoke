@@ -19,8 +19,8 @@ import javax.sql.DataSource;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: TransactionManagement.java, v 0.1 2017/7/11 18:54 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: TransactionManagement.java, v 0.1 2017/7/11 18:54 JHui.Yang Exp $
  */
 @SuppressWarnings("ALL")
 @Configuration

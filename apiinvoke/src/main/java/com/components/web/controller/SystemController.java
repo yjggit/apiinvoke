@@ -16,8 +16,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: SystemController.java, v 0.1 2017/7/10 9:39 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: SystemController.java, v 0.1 2017/7/10 9:39 JHui.Yang Exp $
  */
 @SuppressWarnings("ALL")
 @Api(value = "/components", tags = "获取系统运行相关数据")

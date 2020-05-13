@@ -11,8 +11,8 @@ import java.util.Date;
  *
  * 缓存表
  *
- * @author jianhui.Yang
- * @version $Id CompCache.java, v 0.1 2018-11-13 10:40 jianhui.Yang Exp $$
+ * @author JHui.Yang
+ * @version $Id CompCache.java, v 0.1 2018-11-13 10:40 JHui.Yang Exp $$
  */
 @Entity
 @Table(name="comp_cache")

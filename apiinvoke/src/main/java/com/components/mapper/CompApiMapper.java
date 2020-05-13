@@ -9,8 +9,8 @@ import java.util.List;
 
 
 /**
- * @author jianhui.Yang
- * @version $Id: CompApiMapper.java, v 0.1 2017/7/6 10:01 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: CompApiMapper.java, v 0.1 2017/7/6 10:01 JHui.Yang Exp $
  */
 @Mapper
 public interface CompApiMapper {

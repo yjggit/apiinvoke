@@ -9,8 +9,8 @@ import java.util.Map;
  *
  * 组合请求详细信息
  *
- * @author jianhui.Yang
- * @version $Id: ApiAddressParamAssemblyInterface.java, v 0.1 2017/7/10 17:32 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiAddressParamAssemblyInterface.java, v 0.1 2017/7/10 17:32 JHui.Yang Exp $
  */
 public interface ApiAddressParamAssemblyInterface {
 

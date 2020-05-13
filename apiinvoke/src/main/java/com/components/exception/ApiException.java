@@ -4,8 +4,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiException.java, v 0.1 2017/7/10 9:25 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiException.java, v 0.1 2017/7/10 9:25 JHui.Yang Exp $
  */
 public class ApiException extends Exception {
 

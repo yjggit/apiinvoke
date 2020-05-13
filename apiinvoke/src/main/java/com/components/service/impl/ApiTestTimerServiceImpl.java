@@ -29,8 +29,8 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicLong;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiTestTimerServiceImpl.java, v 0.1 2017/7/17 11:31 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiTestTimerServiceImpl.java, v 0.1 2017/7/17 11:31 JHui.Yang Exp $
  */
 @SuppressWarnings("ALL")
 @Component

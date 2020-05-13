@@ -14,8 +14,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id SystemLogServiceImpl.java, v 0.1 2018-11-13 10:40 jianhui.Yang Exp $$
+ * @author JHui.Yang
+ * @version $Id SystemLogServiceImpl.java, v 0.1 2018-11-13 10:40 JHui.Yang Exp $$
  */
 @SuppressWarnings("ALL")
 @Service

@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 邮件接收mapper
- * Created by jianhui.Yang on 2017/7/18.
+ * Created by JHui.Yang on 2017/7/18.
  */
 @Mapper
 public interface MailReceiverMapper {

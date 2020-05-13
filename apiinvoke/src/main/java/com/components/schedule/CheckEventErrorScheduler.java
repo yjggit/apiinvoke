@@ -21,8 +21,8 @@ import java.util.List;
 
 /**
  * 检查接口报错定时任务
- * @author jianhui.Yang
- * @version $Id CheckEventErrorScheduler.java, v 0.1 2018-11-13 10:40 jianhui.Yang Exp $$
+ * @author JHui.Yang
+ * @version $Id CheckEventErrorScheduler.java, v 0.1 2018-11-13 10:40 JHui.Yang Exp $$
  */
 @Component
 public class CheckEventErrorScheduler {

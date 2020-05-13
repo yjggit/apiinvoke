@@ -12,8 +12,8 @@ import java.net.URLEncoder;
 import java.util.Map;
 
 /**
- * @author jianhui.Yang
- * @version $Id: ApiHttGetInvokingService.java, v 0.1 2017/7/10 14:07 Ian.Su Exp $
+ * @author JHui.Yang
+ * @version $Id: ApiHttGetInvokingService.java, v 0.1 2017/7/10 14:07 JHui.Yang Exp $
  */
 @Service("apiHttpGettInvoking")
 public class ApiHttpGetInvokingServiceImpl implements ApiInvokingService,ApiAddressParamAssemblyInterface {
